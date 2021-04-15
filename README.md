@@ -2,7 +2,7 @@
 
 ## Instructions to download
 1. You need a registered user in Pherobase
-2. Install the Chrome extension " cookies.txt" (https://chrome.google.com/webstore/detail/cookiestxt/njabckikapfpffapmjgojcnbfjonfjfg?hl=es) or an equivalent solution to get the login cookies.
+2. Install the Chrome extension " cookies.txt" (https://chrome.google.com/webstore/detail/get-cookiestxt/bgaddhkoddajcdgocldbbfleckgcbcid/related) or an equivalent solution to get the login cookies.
 3. Login to Pherobase and export cookies using the extension 
 4. Use wget in bash to download database:
 
